@@ -115,15 +115,6 @@ Para gerar um executável:
 
 ---
 
-## 📝 Trabalho Acadêmico
-
-- **Instituição:** [Nome da sua faculdade]
-- **Disciplina:** [Nome da matéria]
-- **Curso:** [Nome do curso]
-- **Aluno:** Carlos (dilok5)
-
----
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
