@@ -38,7 +38,7 @@ Coletar todos os itens disponíveis em cada fase, desviar ou destruir obstáculo
 | **Inimigos** | Se movem entre pontos pré-definidos e causam dano |
 | **Plataformas armadilha** | Se desintegram após o jogador pisar |
 | **Molas** | Impulsionam o jogador para cima com força extra |
-| **Sistema de vida** | Jogador começa com 3 vidas; ao morrer, o score zera |
+| **Sistema de vida** | Será implementado futuramente, mas quando o jogador morre, a pontuação é zerada.|
 
 ---
 
