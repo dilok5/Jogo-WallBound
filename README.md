@@ -90,6 +90,24 @@ Assets/
 | `TrapPlataform` | Destroi a plataforma após um tempo |
 
 ---
+## 🖼️ Imagens do Jogo
+
+### Fase 01
+<img width="898" height="495" alt="image" src="https://github.com/user-attachments/assets/1e71dea7-e951-4cc0-a0da-ab510812e30e" />
+
+
+### Fase 02
+<img width="890" height="493" alt="image" src="https://github.com/user-attachments/assets/6b484c90-6528-4c15-ab01-70384ded4e27" />
+
+
+### Fase 03
+<img width="898" height="490" alt="image" src="https://github.com/user-attachments/assets/dfe15240-9d69-4bde-b606-9f1fd779ac78" />
+
+
+### Menu Principal
+<img width="905" height="499" alt="image" src="https://github.com/user-attachments/assets/f6e42e7e-1946-4846-afbd-5ee0a727cc0c" />
+
+---
 
 ## 🚀 Como Jogar
 
